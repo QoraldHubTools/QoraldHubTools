@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Qorald Hub Tools</title>
+    <link rel="icon" href="favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <div class="container">
+        <nav class="navbar">
+            <img src="logo.png" alt="Crypto Dashboard" class="navbar-logo">
+            <ul>
+                <li><a href="#home">Dashboard</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="#">Qoral Core Pro</a></li>
+            </ul>
+            <div class="navbar-buttons">
+                <a href="https://www.github.com" target="_blank">
+                    <img src="github.png" alt="GitHub">
+                </a>
+                <a href="https://www.twitter.com" target="_blank">
+                    <img src="x.png" alt="Twitter">
+                </a>
+                <a href="https://www.linkedin.com" target="_blank">
+                    <img src="pfun.png" alt="LinkedIn">
+                </a>
+            </div>            
+        </nav>
+        <main>
+            <h1>Crypto GitHub Dashboard</h1>
+            <div class="search-bar">
+                <input type="text" id="searchQuery" placeholder="Buscar repositorios...">
+                <button id="searchButton">Buscar</button>
+            </div>
+            <div id="repos" class="repos-container"></div>
+            <button id="loadMore" class="load-more">Cargar más</button>
+        </main>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html
