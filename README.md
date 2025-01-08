@@ -1,6 +1,6 @@
-# Crypto Dashboard 🌐✨
+# Qorald Dashboard 🌐✨
 
-**Crypto Dashboard** is a tool designed to help you explore and analyze top blockchain and cryptocurrency projects hosted on GitHub. Whether you're a developer, investor, or enthusiast, Crypto Dashboard provides insights into trending projects with key metrics and easy navigation.
+**Qorald Hub Tools** is a tool designed to help you explore and analyze top blockchain and cryptocurrency projects hosted on GitHub. Whether you're a developer, investor, or enthusiast, Crypto Dashboard provides insights into trending projects with key metrics and easy navigation.
 
 ![logo](https://github.com/user-attachments/assets/d46730a4-e20d-4491-ae9f-bc6309b639b7)
 
